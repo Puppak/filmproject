@@ -1,0 +1,19 @@
+.rectangle-1,
+.rectangle-1 * {
+  box-sizing: border-box;
+}
+.rectangle-1 {
+  background: #a8a8a8;
+  height: 783px;
+  position: relative;
+}
+.rectangle-2,
+.rectangle-2 * {
+  box-sizing: border-box;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  border-radius: 17px;
+  height: 298px;
+  position: relative;
+}
